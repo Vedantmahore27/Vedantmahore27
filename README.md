@@ -38,8 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/Vedantmahore27)
 
 
 ## 🤝 Connect With Me
