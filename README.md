@@ -39,10 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vedantmahore27&theme=radical)
-
----
+![Metrics](https://metrics.lecoq.io/Vedantmahore27)
 
 
 ## 🤝 Connect With Me
