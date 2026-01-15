@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=500&height=50">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Vedant+Mahore+👋;Full+Stack+Developer+💻;DSA+Enthusiast+🔥;Future+SDE+🚀;Always+Learning+New+Things+✨">
 </p>
 
